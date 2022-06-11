@@ -4,9 +4,9 @@ Online Book Store Project is a web-based application in Java, developed mainly f
 
 # Technologies used
 Java
-Maven
-JDBC
-MySQL
+ Maven
+  JDBC
+ MySQL
 JUnit
 # Developed a console based application, which has two modules
 # Admin functionalities
